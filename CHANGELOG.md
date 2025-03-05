@@ -2,6 +2,7 @@
 
 ### Changes in the last 365 days
 
+- 📝 update CHANGELOG (github-actions[bot], 2025-03-05)
 - 📝 change CHANGELOG history (Manuel Steinberg, 2025-03-05)
 - 📝 update CHANGELOG (github-actions[bot], 2025-03-05)
 - ✨ create changelog.yml (Manuel Steinberg, 2025-03-05)
